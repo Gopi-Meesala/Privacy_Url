@@ -1,4 +1,4 @@
-# Privacy Policy for [App Name]
+# Privacy Policy
 
 **Effective Date:** [October 29, 2025]
 
