@@ -2,7 +2,7 @@
 
 **Effective Date:** [October 29, 2025]
 
-[Your Name / Your Company Name] ("we," "us," or "our") built the [App Name] app. This page is used to inform users regarding our policies with the collection, use, and disclosure of information if anyone decided to use our Service.
+Gopi Meesala ("we," "us," or "our") built the Workout Tracker app. This page is used to inform users regarding our policies with the collection, use, and disclosure of information if anyone decided to use our Service.
 
 ### 1. Information Collection and Use
 
